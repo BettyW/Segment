@@ -1,0 +1,17 @@
+D:\pro\segment1\segment1\bin\Debug\segment1.exe.config
+D:\pro\segment1\segment1\bin\Debug\segment1.exe
+D:\pro\segment1\segment1\bin\Debug\segment1.pdb
+D:\pro\segment1\segment1\bin\Debug\pangu.dll
+D:\pro\segment1\segment1\obj\Debug\segment1.Form1.resources
+D:\pro\segment1\segment1\obj\Debug\segment1.Properties.Resources.resources
+D:\pro\segment1\segment1\obj\Debug\segment1.csproj.GenerateResource.cache
+D:\pro\segment1\segment1\obj\Debug\segment1.csproj.CoreCompileInputs.cache
+D:\pro\segment1\segment1\obj\Debug\segment1.csproj.CopyComplete
+D:\pro\segment1\segment1\obj\Debug\segment1.exe
+D:\pro\segment1\segment1\obj\Debug\segment1.pdb
+D:\pro\segment1\segment1\bin\Debug\JiebaNet.Analyser.dll
+D:\pro\segment1\segment1\bin\Debug\JiebaNet.Segmenter.dll
+D:\pro\segment1\segment1\bin\Debug\Newtonsoft.Json.dll
+D:\pro\segment1\segment1\bin\Debug\Newtonsoft.Json.xml
+D:\pro\segment1\segment1\obj\Debug\segment1.csprojAssemblyReference.cache
+D:\pro\segment1\segment1\obj\Debug\segment1.Form2.resources
